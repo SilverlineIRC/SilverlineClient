@@ -1,6 +1,6 @@
 # SilverlineClient
 
-Desktop client for Irccloud using the Irccloud API. Should work on windows, mac, linux. **We have stopped developing this project**. Current state of the project is that you can login to irccloud and chat in your current channels. You can also join a channel or part from current channel using the standard /join etc. commands.
+Desktop client for Irccloud using the Irccloud API. Written in **Java**, UIs created with **java swing**. Should work on windows, mac, linux. **We have stopped developing this project**. Current state of the project is that you can login to irccloud and chat in your current channels. You can also join a channel or part from current channel using the standard /join etc. commands.
 
 ## Development
 
@@ -12,7 +12,9 @@ All UI code has been made with Netbeans, so to develop the UI, use Netbeans IDE.
 
 ## Screenshots
 
+![Silverline Login Screen](http://i.imgur.com/jUjmXLC.jpg)
 
+![Silverline Main View](http://i.imgur.com/8HC1vOn.jpg)
 
 ## License
 
