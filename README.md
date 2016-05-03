@@ -4,11 +4,11 @@ Desktop client for Irccloud using the Irccloud API. Written in **Java**, UIs cre
 
 ## Development
 
-All UI code has been made with Netbeans, so to develop the UI, use Netbeans IDE. To develop this project further and build the project:
+All UI code has been made with Netbeans, so to develop the UI, use Netbeans IDE. To develop this project further (+ run / build the project):
 
-1. Clone this project
-2. Open the project in Netbeans
-3. Develop & Build in Netbeans! :)
+1. Clone this repository
+2. Open the folder in Netbeans (Files in this repository make a netbeans project)
+3. Develop & Build in Netbeans! :) We recommend Netbeans 8.0.1+ for compatibility.
 
 ## Screenshots
 
